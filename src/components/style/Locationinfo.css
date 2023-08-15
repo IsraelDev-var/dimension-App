@@ -1,0 +1,17 @@
+.ul-info > span {
+    display: flex;
+    font-size: larger;
+    
+}
+.container-1 > ul{
+    display: flex;
+    flex-direction: column;
+    min-width: 200px;
+    
+}
+li{
+    padding: 5px;
+    color:dimgrey;
+    font-size:1.1rem ;
+    
+}
